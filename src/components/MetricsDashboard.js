@@ -10,7 +10,7 @@ const MetricsDashboard = () => {
   return (
     <Container>
       {/* Display Metrics Cards */}
-      <Typography container spacing={8} variant='h2'>Music Streaming Analytics Dashboard</Typography>
+      <Typography container spacing={8} variant='h2'>Streamify Analytics Dashboard</Typography>
       <Grid container spacing={4}>
         <Grid item xs={12} sm={6} md={3}>
           <Card>
