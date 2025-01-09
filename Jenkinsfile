@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs 'Node16' // The Node.js version configured in Jenkins
+        nodejs 'Node23.6.0' // The Node.js version configured in Jenkins
     }
 
     environment {
